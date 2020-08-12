@@ -1,4 +1,4 @@
-# Corona_Chatbot
+# CoronaChatbot
 
 Kakaotalk channel: corona_info
 
